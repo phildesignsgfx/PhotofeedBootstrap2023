@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+a.nav-link {
+  color: rgb(92, 97, 97);
+}
+a.nav-link.active {
+  color: rgb(4, 0, 255);
+}
+
